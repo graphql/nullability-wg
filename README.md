@@ -1,33 +1,10 @@
-# Working Group Template
-
-This repository contains a template for creating working groups under the
-GraphQL Foundation. To use this template you should:
-
-- create a new repository from it
-- remove this front-matter
-- customize the text in this README
-- fill out `(NAME)` in [notes/README.md](notes/README.md)
-- update the [initial agenda](./agendas/2022/2022-XX-XX.md)
-- once your initial meeting is scheduled:
-  - rename the initial agenda into `YYYY-MM-DD.md` format
-  - have operations schedule the meeting, and update the password in the agenda
-  - fix other instances of `TBD` in the agenda
-  - create a blank Google document with the same title as the agenda, make it
-    publicly editable, and link it under "Live Notes"
-
-In this README, items that need replacing are ALLCAPS and surrounded by
-parenthesis. We've attempted to make as much of the text as possible generic so
-that little customization will be needed.
-
----
-
-# GraphQL (NAME) Working Group
+# GraphQL CCN Working Group
 
 This working group is a subcommittee of the
 [GraphQL Working Group](https://github.com/graphql/graphql-wg) with the
 following primary purpose:
 
-> (MISSION STATEMENT)
+> Giving clients a way to influence or override nullability checks within queries.
 
 Anyone in the public GraphQL community may attend a meeting of this
 subcommittee, provided they first sign the
@@ -41,7 +18,7 @@ upcoming event's agenda to _attend_ or _propose an agenda item_.
 All meetings occur via video conference, however participating company offices
 are welcome to host guests.
 
-Meetings are typically scheduled (DETAILS OF MEETING SCHEDULE). Check the
+Meetings are typically scheduled ad-hoc. Check the
 [agendas](./agendas) for the exact date and time of upcoming meetings.
 
 Keep track of future upcoming meetings by subscribing to the

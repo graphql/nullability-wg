@@ -81,3 +81,8 @@ If you have issues, please email
 Commit access is granted to this repo to members of the
 [GraphQL TSC](./GraphQL-TSC.md) and some regular attendees of subcommittee
 meetings. To request commit access, please reach out to a TSC member.
+
+## Resources
+
+- [GraphQL-wg RFC](https://github.com/graphql/graphql-wg/blob/main/rfcs/ClientControlledNullability.md)
+- [GraphQL-spec RFC](https://github.com/graphql/graphql-spec/pull/895)

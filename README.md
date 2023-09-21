@@ -86,3 +86,4 @@ meetings. To request commit access, please reach out to a TSC member.
 
 - [GraphQL-wg RFC](https://github.com/graphql/graphql-wg/blob/main/rfcs/ClientControlledNullability.md)
 - [GraphQL-spec RFC](https://github.com/graphql/graphql-spec/pull/895)
+- [#client-controlled-nullability on Discord](https://discord.gg/SZZaD6V8GM)

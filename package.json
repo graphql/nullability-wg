@@ -3,13 +3,15 @@
   "private": true,
   "license": "OWFa-1.0",
   "scripts": {
+    "gen-agenda": "wgutils agenda gen",
     "test:spellcheck": "cspell \"**/*.md\"",
     "format": "prettier --write \"**/*.{md,yml,yaml,json}\"",
     "format:check": "prettier --check \"**/*.{md,yml,yaml,json}\""
   },
   "devDependencies": {
     "cspell": "5.9.1",
-    "prettier": "^2.6.2"
+    "prettier": "^2.6.2",
+    "wgutils": "^0.1.6"
   },
   "prettier": {
     "proseWrap": "always",

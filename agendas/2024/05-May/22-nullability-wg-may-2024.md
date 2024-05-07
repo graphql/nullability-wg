@@ -31,6 +31,8 @@ We typically meet on the last Wednesday
 | Name                 | GitHub        | Organization       | Location              |
 | :------------------- | :------------ | :----------------- | :-------------------- |
 | Benjie Gillam        | @benjie       | Graphile           | Chandler's Ford, UK   |
+| Janette Cheng        | @janettec     | Meta               | London, UK            |
+
 
 
 ## Agenda

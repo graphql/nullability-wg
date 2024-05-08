@@ -28,12 +28,11 @@ We typically meet on the last Wednesday
 ## Attendees
 
 <!-- prettier-ignore -->
-| Name                 | GitHub        | Organization       | Location              |
-| :------------------- | :------------ | :----------------- | :-------------------- |
-| Benjie Gillam        | @benjie       | Graphile           | Chandler's Ford, UK   |
-| Janette Cheng        | @janettec     | Meta               | London, UK            |
-
-
+| Name                 | GitHub        | Organization       | Location               |
+| :------------------- | :------------ | :----------------- | :--------------------- |
+| Benjie Gillam        | @benjie       | Graphile           | Chandler's Ford, UK    |
+| Alex Reilly          | @twof         | Independent        | San Francisco, CA, USA |
+| Janette Cheng        | @janettec     | Meta               | London, UK             |
 
 ## Agenda
 

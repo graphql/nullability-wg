@@ -33,6 +33,7 @@ We typically meet on the last Wednesday
 | Benjie Gillam        | @benjie       | Graphile           | Chandler's Ford, UK    |
 | Alex Reilly          | @twof         | Independent        | San Francisco, CA, USA |
 | Janette Cheng        | @janettec     | Meta               | London, UK             |
+| Calvin Cestari       | @calvincestari | Apollo             | Vancouver, BC          |
 
 ## Agenda
 

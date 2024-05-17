@@ -49,3 +49,4 @@ We typically meet on the last Wednesday
    - [Ready for review](https://github.com/graphql/nullability-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ready+for+review+%F0%9F%99%8C%22+sort%3Aupdated-desc)
    - [All open action items (by last update)](https://github.com/graphql/nullability-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Action+item+%3Aclapper%3A%22+sort%3Aupdated-desc)
 1. Semantic nullability schema proposal (45m, Benjie)
+   - [Outline document](https://docs.google.com/document/d/1UpKbCUhoPMZrxoWAImM78oiLGIetv2U1O6uPDS_4C5s/edit?usp=sharing)

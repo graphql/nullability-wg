@@ -35,6 +35,7 @@ We typically meet on the last Wednesday
 | Janette Cheng        | @janettec     | Meta               | London, UK             |
 | Calvin Cestari       | @calvincestari | Apollo            | Vancouver, BC          |
 | Jordan Eldredge      | @captbaritone  | Meta (Relay)      | London, UK             |
+| Ernie Turner         | @ernieturner  | Coinbase           | Bozeman, MT, USA       |
 
 ## Agenda
 

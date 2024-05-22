@@ -36,6 +36,7 @@ We typically meet on the last Wednesday
 | Calvin Cestari       | @calvincestari | Apollo            | Vancouver, BC          |
 | Jordan Eldredge      | @captbaritone  | Meta (Relay)      | London, UK             |
 | Ernie Turner         | @ernieturner  | Coinbase           | Bozeman, MT, USA       |
+| Stephen Spalding     | @fotoetienne  | Netflix            | Los Gatos, CA, USA     |
 
 ## Agenda
 
@@ -52,3 +53,4 @@ We typically meet on the last Wednesday
    - [All open action items (by last update)](https://github.com/graphql/nullability-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Action+item+%3Aclapper%3A%22+sort%3Aupdated-desc)
 1. Semantic nullability schema proposal (45m, Benjie)
    - [Outline document](https://docs.google.com/document/d/1UpKbCUhoPMZrxoWAImM78oiLGIetv2U1O6uPDS_4C5s/edit?usp=sharing)
+1. GraphQL Conf Panel (5m, Stephen)

@@ -30,7 +30,7 @@ We typically meet on the last Wednesday
 <!-- prettier-ignore -->
 | Name                 | GitHub        | Organization       | Location              |
 | :------------------- | :------------ | :----------------- | :-------------------- |
-
+| Alex Reilly          | @twof         | Independent        | San Francisco         |
 
 ## Agenda
 

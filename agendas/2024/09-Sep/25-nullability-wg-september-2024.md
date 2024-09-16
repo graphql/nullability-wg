@@ -31,6 +31,7 @@ We typically meet on the last Wednesday
 | Name                 | GitHub        | Organization       | Location              |
 | :------------------- | :------------ | :----------------- | :-------------------- |
 | Alex Reilly          | @twof         | Independent        | San Francisco         |
+| Benjie Gillam        | @benjie       | Graphile           | Chandler's Ford, UK   |
 
 ## Agenda
 
@@ -45,3 +46,15 @@ We typically meet on the last Wednesday
 1. Review previous meeting's action items (5m, Host)
    - [Ready for review](https://github.com/graphql/nullability-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ready+for+review+%F0%9F%99%8C%22+sort%3Aupdated-desc)
    - [All open action items (by last update)](https://github.com/graphql/nullability-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Action+item+%3Aclapper%3A%22+sort%3Aupdated-desc)
+1. Introducing the nullability trifecta (10m, Benjie)
+   - client-side localized error handling (e.g. throw on error) - brings the errors back into the data tree
+   - no null bubbling - for smart clients, fixes issues writing to normalized caches when errors occur, but requires clients to reproduce null-bubbling
+   - semantic non-null - indicates what the true nullability of something is, excluding the possibility of errors
+1. Introducing [GraphQL-TOE](https://github.com/graphile/graphql-toe) (5m, Benjie)
+   - Already has [a PR open against URQL](https://github.com/urql-graphql/urql/pull/3677)
+   - Should also work with `window.fetch()`-style implementations, and `useQuery()` from Apollo Client
+1. An [early implementation in graphql-js](https://github.com/graphql/graphql-js/pull/4192) (25m, Benjie)
+   - How should introspection work for backwards compatibility?
+   - Doesn't use the latest proposed syntax; let's revisit this now the implementation and application is more concrete
+1. Incorporate `graphql-toe` and the graphql-js pre-release into blog post? (15m, Benjie)
+   - If we can agree on some things above and fix the implementation, we can let people get hands on with the full nullability trifecta.

@@ -33,9 +33,9 @@ We typically meet on the last Wednesday
 | Alex Reilly          | @twof         | Independent        | San Francisco         |
 | Benjie Gillam        | @benjie       | Graphile           | Chandler's Ford, UK   |
 | Benoit Lubek         | @bod          | Apollo             | Lyon, FR              |
-| Calvin Cestari       | @calvincestari| Apollo (Swift)     | Vancouver, Canada     |
+| Calvin Cestari       | @calvincestari| Apollo (Swift)     | Vancouver, CA         |
 | Martin Bonnin        | @martinbonnin | Apollo             | Paris, FR             |
-| Jordan Eldredge      | @Captbaritone | Meta (Relay)       | San Francisco         |
+| Jordan Eldredge      | @Captbaritone | Meta (Relay)       | San Francisco, US     |
 
 ## Agenda
 

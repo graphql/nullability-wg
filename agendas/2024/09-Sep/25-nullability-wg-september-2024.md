@@ -30,7 +30,7 @@ We typically meet on the last Wednesday
 <!-- prettier-ignore -->
 | Name                 | GitHub        | Organization       | Location              |
 | :------------------- | :------------ | :----------------- | :-------------------- |
-| Alex Reilly          | @twof         | Independent        | San Francisco         |
+| Alex Reilly          | @twof         | Independent        | San Francisco, US     |
 | Benjie Gillam        | @benjie       | Graphile           | Chandler's Ford, UK   |
 | Benoit Lubek         | @bod          | Apollo             | Lyon, FR              |
 | Calvin Cestari       | @calvincestari| Apollo (Swift)     | Vancouver, CA         |

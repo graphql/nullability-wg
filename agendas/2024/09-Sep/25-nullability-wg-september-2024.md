@@ -32,8 +32,9 @@ We typically meet on the last Wednesday
 | :------------------- | :------------ | :----------------- | :-------------------- |
 | Alex Reilly          | @twof         | Independent        | San Francisco         |
 | Benjie Gillam        | @benjie       | Graphile           | Chandler's Ford, UK   |
+| Benoit Lubek         | @bod          | Apollo             | Lyon, FR              |
 | Calvin Cestari       | @calvincestari| Apollo (Swift)     | Vancouver, Canada     |
-| Martin Bonnin        | @martinbonnin | Apollo             | Paris, FR     |
+| Martin Bonnin        | @martinbonnin | Apollo             | Paris, FR             |
 
 ## Agenda
 

@@ -35,6 +35,7 @@ We typically meet on the last Wednesday
 | Benoit Lubek         | @bod          | Apollo             | Lyon, FR              |
 | Calvin Cestari       | @calvincestari| Apollo (Swift)     | Vancouver, Canada     |
 | Martin Bonnin        | @martinbonnin | Apollo             | Paris, FR             |
+| Jordan Eldredge      | @Captbaritone | Meta (Relay)       | San Francisco         |
 
 ## Agenda
 

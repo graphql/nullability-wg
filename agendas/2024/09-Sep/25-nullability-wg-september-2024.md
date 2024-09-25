@@ -39,6 +39,7 @@ We typically meet on the last Wednesday
 | Itamar Kestenbaum    | @itamark      | Meta               | Plainsboro, NJ        |
 | Stephen Spalding     | @fotoetienne  | Netflix            | Los Gatos, CA, US     |
 | Alf Lervåg           | @alf          | Sikt               | Oslo, NO              |
+| Ernie Turner         | @ernieturner  | Coinbase           | Bozeman, MT           |
 
 ## Agenda
 

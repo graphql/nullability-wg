@@ -37,6 +37,7 @@ We typically meet on the last Wednesday
 | Martin Bonnin        | @martinbonnin | Apollo             | Paris, FR             |
 | Jordan Eldredge      | @Captbaritone | Meta (Relay)       | San Francisco, US     |
 | Itamar Kestenbaum    | @itamark      | Meta               | Plainsboro, NJ        |
+| Alf Lervåg           | @alf          | Sikt               | Oslo, NO              |
 
 ## Agenda
 

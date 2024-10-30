@@ -34,6 +34,7 @@ We typically meet on the last Wednesday
 | Martin Bonnin | martinbonnin | Apollo | Paris, FR |
 | Calvin Cestari       | calvincestari | Apollo             | Vancouver, BC         |
 | Stephen Spalding     | fotoetienne   | Netflix            | Los Gatos, CA, US     |
+| Benjie Gillam        | @benjie       | Graphile           | Chandler's Ford, UK   |
 
 
 ## Agenda

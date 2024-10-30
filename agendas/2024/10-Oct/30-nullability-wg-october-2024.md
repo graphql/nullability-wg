@@ -32,6 +32,7 @@ We typically meet on the last Wednesday
 | :------------------- | :------------ | :----------------- | :-------------------- |
 | Alex Reilly | @twof | Independent | San Francisco, CA, United States |
 | Martin Bonnin | martinbonnin | Apollo | Paris, FR |
+| Calvin Cestari       | calvincestari | Apollo             | Vancouver, BC         |
 
 
 ## Agenda

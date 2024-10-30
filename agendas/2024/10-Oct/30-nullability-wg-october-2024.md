@@ -30,6 +30,7 @@ We typically meet on the last Wednesday
 <!-- prettier-ignore -->
 | Name                 | GitHub        | Organization       | Location              |
 | :------------------- | :------------ | :----------------- | :-------------------- |
+| Calvin Cestari       | calvincestari | Apollo             | Vancouver, BC         |
 
 
 ## Agenda

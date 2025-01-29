@@ -30,6 +30,7 @@ We typically meet on the last Wednesday
 <!-- prettier-ignore -->
 | Name                 | GitHub        | Organization       | Location              |
 | :------------------- | :------------ | :----------------- | :-------------------- |
+| Martin Bonnin | martinbonnin | Apollo | Paris, FR |
 | Calvin Cestari | @calvincestari | Apollo | Vancouver, BC |
 
 
@@ -46,3 +47,14 @@ We typically meet on the last Wednesday
 1. Review previous meeting's action items (5m, Host)
    - [Ready for review](https://github.com/graphql/nullability-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ready+for+review+%F0%9F%99%8C%22+sort%3Aupdated-desc)
    - [All open action items (by last update)](https://github.com/graphql/nullability-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Action+item+%3Aclapper%3A%22+sort%3Aupdated-desc)
+1. "No Bubles Please" directive naming
+   - https://github.com/graphql-java/graphql-java/pull/3772
+   - Candidates:
+     - `@nullOnError`
+     - `@errorHandling(onError : NULL)`
+     - `@noNullPropagation`
+     - `@softErrors`
+     - `@onNonNullFieldReturningNull`
+     - `@onNonNullFieldContractFailure`
+     - `@onFieldContractFailure`
+     - `@nullOnNonNullError`

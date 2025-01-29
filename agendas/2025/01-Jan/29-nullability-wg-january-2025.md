@@ -32,6 +32,7 @@ We typically meet on the last Wednesday
 | :------------------- | :------------ | :----------------- | :-------------------- |
 | Martin Bonnin | martinbonnin | Apollo | Paris, FR |
 | Calvin Cestari | @calvincestari | Apollo | Vancouver, BC |
+| Alex Reilly | @twof | DoorDash | San Francisco, CA, US |
 
 
 ## Agenda
@@ -58,3 +59,4 @@ We typically meet on the last Wednesday
      - `@onNonNullFieldContractFailure`
      - `@onFieldContractFailure`
      - `@nullOnNonNullError`
+1. Implementation handoff (15m, Alex)

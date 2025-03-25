@@ -54,7 +54,7 @@ We typically meet on the last Wednesday
      - grats: available in version [0.0.32](https://grats.capt.dev/docs/guides/strict-semantic-nullability/)
      - [graphql-sock](https://github.com/graphile/graphql-sock): available in version 1.0.0
      - graphql-code-generator: [PR opened](https://github.com/dotansimha/graphql-code-generator/pull/10323)
-  - `@catch`
+   - `@catch`
      - relay: available in version [18.0.0](https://relay.dev/docs/guides/catch-directive/) 
    - Throw on error
      - [graphql-toe](https://github.com/graphile/graphql-toe) released v1.0.0-rc.0

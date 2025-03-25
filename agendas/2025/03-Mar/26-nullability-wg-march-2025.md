@@ -56,3 +56,6 @@ We typically meet on the last Wednesday
      - graphql-code-generator: [PR opened](https://github.com/dotansimha/graphql-code-generator/pull/10323)
   - `@catch`
      - relay: available in version [18.0.0](https://relay.dev/docs/guides/catch-directive/) 
+   - Throw on error
+     - [graphql-toe](https://github.com/graphile/graphql-toe) released v1.0.0-rc.0
+     - [@urql/exchange-throw-on-error](https://github.com/urql-graphql/urql/blob/main/exchanges/throw-on-error) released v0.1.2

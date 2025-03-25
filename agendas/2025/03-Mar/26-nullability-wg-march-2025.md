@@ -30,6 +30,7 @@ We typically meet on the last Wednesday
 <!-- prettier-ignore -->
 | Name                 | GitHub        | Organization       | Location              |
 | :------------------- | :------------ | :----------------- | :-------------------- |
+| Martin Bonnin| martinbonnnin | Apollo | Paris, FR |
 
 
 ## Agenda
@@ -44,3 +45,14 @@ We typically meet on the last Wednesday
 1. Determine volunteers for note taking (1m, Host)
 1. Review agenda (2m, Host)
 1. Check for [ready for review agenda items](https://github.com/graphql/nullability-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ready+for+review+%F0%9F%99%8C%22+sort%3Aupdated-desc) (5m, Host)
+1. State of experimental features (5m, Martin)
+   - `@experimental_disableErrorPropagation`
+     - graphql-java: merged, not released
+     - graphql-js: merged, not released
+   - `@semanticNonNull`
+     - relay: available in version [18.0.0](https://relay.dev/docs/guides/semantic-nullability/)
+     - grats: available in version [0.0.32](https://grats.capt.dev/docs/guides/strict-semantic-nullability/)
+     - graphql-socks: available in version 1.0.0
+     - graphql-code-generator: [PR opened](https://github.com/dotansimha/graphql-code-generator/pull/10323)
+  - `@catch`
+     - relay: available in version [18.0.0](https://relay.dev/docs/guides/catch-directive/) 

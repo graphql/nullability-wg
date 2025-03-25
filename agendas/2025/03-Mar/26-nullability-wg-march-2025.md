@@ -30,8 +30,9 @@ We typically meet on the last Wednesday
 <!-- prettier-ignore -->
 | Name                 | GitHub        | Organization       | Location              |
 | :------------------- | :------------ | :----------------- | :-------------------- |
-| Martin Bonnin| martinbonnnin | Apollo | Paris, FR |
+| Martin Bonnin| @martinbonnin | Apollo | Paris, FR |
 | Calvin Cestari | @calvincestari | Apollo | Vancouver, BC |
+| Benjie Gillam        | @benjie       | Graphile           | Chandler's Ford, UK   |
 
 
 ## Agenda

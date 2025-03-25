@@ -52,7 +52,7 @@ We typically meet on the last Wednesday
    - `@semanticNonNull`
      - relay: available in version [18.0.0](https://relay.dev/docs/guides/semantic-nullability/)
      - grats: available in version [0.0.32](https://grats.capt.dev/docs/guides/strict-semantic-nullability/)
-     - graphql-socks: available in version 1.0.0
+     - [graphql-sock](https://github.com/graphile/graphql-sock): available in version 1.0.0
      - graphql-code-generator: [PR opened](https://github.com/dotansimha/graphql-code-generator/pull/10323)
   - `@catch`
      - relay: available in version [18.0.0](https://relay.dev/docs/guides/catch-directive/) 

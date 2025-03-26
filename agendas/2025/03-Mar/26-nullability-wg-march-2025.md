@@ -62,3 +62,5 @@ We typically meet on the last Wednesday
      - [graphql-toe](https://github.com/graphile/graphql-toe) released v1.0.0-rc.0
      - [@urql/exchange-throw-on-error](https://github.com/urql-graphql/urql/blob/main/exchanges/throw-on-error) released v0.1.2
      - Relay: [@throwOnFieldError](https://relay.dev/docs/guides/throw-on-field-error-directive/) since v18.0.0
+1. [Transitional non-null proposal](https://benjie.dev/graphql/nullability) (10m, Benjie)
+   - [60 second video summary](https://youtu.be/gYnVaZz-19A)

@@ -32,7 +32,8 @@ We typically meet on the last Wednesday
 | :------------------- | :------------ | :----------------- | :-------------------- |
 | Janette Cheng| @janettec | Meta | New York, NY, US |
 | Martin Bonnin| @martinbonnin | Apollo | Paris, FR |
-| Benjie Gillam        | @benjie       | Graphile           | Chandler's Ford, UK   |
+| Benjie Gillam        | @benjie       | Graphile           | Chandler's Ford, UK   |\
+| Alex Reilly        | @twof       | DoorDash           | San Francisco, CA, US   |
 
 
 ## Agenda

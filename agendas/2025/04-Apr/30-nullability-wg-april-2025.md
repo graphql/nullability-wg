@@ -32,6 +32,7 @@ We typically meet on the last Wednesday
 | :------------------- | :------------ | :----------------- | :-------------------- |
 | Janette Cheng| @janettec | Meta | New York, NY, US |
 | Martin Bonnin| @martinbonnin | Apollo | Paris, FR |
+| Benjie Gillam        | @benjie       | Graphile           | Chandler's Ford, UK   |
 
 
 ## Agenda
@@ -46,4 +47,6 @@ We typically meet on the last Wednesday
 1. Determine volunteers for note taking (1m, Host)
 1. Review agenda (2m, Host)
 1. Check for [ready for review agenda items](https://github.com/graphql/nullability-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ready+for+review+%F0%9F%99%8C%22+sort%3Aupdated-desc) (5m, Host)
-1. [Meta evlaution of proposals](https://github.com/graphql/nullability-wg/discussions/98) (5m, Janette)  
+1. [Meta evlaution of proposals](https://github.com/graphql/nullability-wg/discussions/98) (5m, Janette)
+1. [Request parameter proposal, take 2](https://github.com/graphql/graphql-spec/pull/1163) (10m, Benjie)
+1. [Appendix C: `@noPropagate` directive](https://github.com/graphql/graphql-spec/pull/1165) (10m, Benjie)

@@ -31,6 +31,7 @@ We typically meet on the last Wednesday
 | Name                 | GitHub        | Organization       | Location              |
 | :------------------- | :------------ | :----------------- | :-------------------- |
 | Janette Cheng| @janettec | Meta | New York, NY, US |
+| Martin Bonnin| @martinbonnin | Apollo | Paris, FR |
 
 
 ## Agenda

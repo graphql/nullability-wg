@@ -56,6 +56,7 @@ We typically meet on the last Wednesday
    - https://github.com/graphql/graphql-wg/discussions/1700
    - https://github.com/graphql/graphql-wg/discussions/1410
    - https://github.com/graphql/graphql-wg/discussions/1009
+   - https://github.com/graphql/graphql.github.io/pull/1970
 1. How to move `onError`?
    - https://github.com/graphql/graphql-spec/pull/1163
    - https://github.com/graphql/graphql-js/pull/4364

@@ -45,6 +45,17 @@ We typically meet on the last Wednesday
 1. Determine volunteers for note taking (1m, Host)
 1. Review agenda (2m, Host)
 1. Check for [ready for review agenda items](https://github.com/graphql/nullability-wg/issues?q=is%3Aissue+is%3Aopen+label%3A%22Ready+for+review+%F0%9F%99%8C%22+sort%3Aupdated-desc) (5m, Host)
+1. GitHub grooming
+   - https://github.com/graphql/graphql-js/pull/4384
+   - https://github.com/graphql/graphql-spec/pull/1165
+   - https://github.com/graphql/graphql-spec/pull/1164
+   - https://github.com/graphql/graphql-spec/pull/1145
+   - https://github.com/graphql/graphql-spec/pull/1065
+   - https://github.com/graphql/graphql-spec/pull/1050
+   - https://github.com/graphql/graphql-wg/discussions/1394
+   - https://github.com/graphql/graphql-wg/discussions/1700
+   - https://github.com/graphql/graphql-wg/discussions/1410
+   - https://github.com/graphql/graphql-wg/discussions/1009
 1. How to move `onError`?
    - https://github.com/graphql/graphql-spec/pull/1163
    - https://github.com/graphql/graphql-js/pull/4364

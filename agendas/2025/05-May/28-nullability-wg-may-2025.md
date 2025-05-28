@@ -32,6 +32,7 @@ We typically meet on the last Wednesday
 | :------------------- | :------------ | :----------------- | :-------------------- |
 | Martin Bonnin | @martinbonnin | Apollo | Paris, FR |
 | Benjie Gillam        | @benjie       | Graphile           | Chandler's Ford, UK   |
+| Alex Reilly       | @twof       | DoorDash           | San Francisco, CA, US   |
 
 
 ## Agenda

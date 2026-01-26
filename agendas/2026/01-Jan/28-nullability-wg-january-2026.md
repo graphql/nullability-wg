@@ -31,7 +31,7 @@ We typically meet on the last Wednesday
 | Name                 | GitHub        | Organization       | Location              |
 | :------------------- | :------------ | :----------------- | :-------------------- |
 | Martin Bonnin | martinbonnin | Apollo | Paris, FR |
-
+| Alex Reilly | twof | DoorDash | San Francisco, CA, USA |
 
 ## Agenda
 

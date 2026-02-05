@@ -1,3 +1,11 @@
+# This repository is archived
+
+⚠️ As of February, 5th, 2026, this working group is archived. 
+
+Many thanks to everyone who contributed the many discussions and that made it possible to land on the current [**service capabilities** + `onError`](https://github.com/graphql/graphql-spec/pull/1163) proposal. 
+
+Moving forward, the implementation will be carried in the main working group.
+
 # GraphQL Nullability Working Group
 
 This working group is a subcommittee of the
